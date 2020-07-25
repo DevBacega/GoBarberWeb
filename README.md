@@ -1,5 +1,5 @@
 
-# GoBarber
+<p align = "center">  <h1>GoBarber</h1> </p>
 <p align = "center">
   <img style="width:150px; height:100px;" src="https://github.com/DevBacega/GoBarberWeb/blob/master/src/assets/gobarberlogo.png" /> 
 </p>

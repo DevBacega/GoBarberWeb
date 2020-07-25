@@ -1,5 +1,5 @@
 
-<p align = "center">  <h1>GoBarber</h1> </p>
+# GoBarber - Web
 <p align = "center">
   <img style="width:150px; height:100px;" src="https://github.com/DevBacega/GoBarberWeb/blob/master/src/assets/gobarberlogo.png" /> 
 </p>
@@ -17,8 +17,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-
 - [React](https://reactjs.org)
+- [Typescript](https://www.typescriptlang.org/docs/home.html)
 
 
 ## 💻 Projeto

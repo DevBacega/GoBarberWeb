@@ -1,6 +1,6 @@
 
 # GoBarber
-<p style='text-align: center'>![GoBarber](https://github.com/DevBacega/GoBarberWeb/blob/master/src/assets/gobarberlogo.png)</p>
+<p style="text-align: center">![GoBarber](https://github.com/DevBacega/GoBarberWeb/blob/master/src/assets/gobarberlogo.png)</p>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

@@ -1,6 +1,6 @@
 
 # GoBarber
-<p style="display:flex; justify-content: center;">
+<p align = "center">
   <img style="width:150px; height:100px;" src="https://github.com/DevBacega/GoBarberWeb/blob/master/src/assets/gobarberlogo.png" /> 
 </p>
 <p align="center">

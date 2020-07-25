@@ -4,10 +4,9 @@
   <img style="width:150px; height:100px;" src="https://github.com/DevBacega/GoBarberWeb/blob/master/src/assets/gobarberlogo.png" /> 
 </p>
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#construction_worker-em-desenvolvimento">Em Desenvolvimento</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -26,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Gobarber é um sistema de agendamento para barbearias e cabeleireiros, no qual o profissional pode cadastrar seu salão e receber pedidos de agendamento dos clientes cadastrados.  
 
 
-## :construction_worker: Projeto em desenvolvimento!
+## :construction_worker: Em Desenvolvimento
 
 - Este projeto está em faze de desenvolvimento.
 
